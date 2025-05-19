@@ -4,9 +4,9 @@ const mineflayer = require('mineflayer')
 const botConfig = {
   host: 'Codewithfire.aternos.me', // Thay bằng IP server (ví dụ: 'play.hypixel.net')
   port: 62686,           // Thay bằng cổng server (mặc định: 25565)
-  username: 'ADN',   // Thay bằng tên bot (ví dụ: 'MyBot123')
+  username: 'MayThangOatCon',   // Thay bằng tên bot (ví dụ: 'MyBot123')
   // auth: 'microsoft',  // Bỏ comment nếu dùng tài khoản premium
-  version: '1.18.2'      // Thay bằng phiên bản server (ví dụ: '1.20.1')
+  version: '1.20.2'      // Thay bằng phiên bản server (ví dụ: '1.20.1')
 }
 
 // Hàm tạo bot
